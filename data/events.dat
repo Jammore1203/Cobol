@@ -1,0 +1,27 @@
+* MARSHAL'S LOG - Skirmish at Greymarsh Ford
+* TYPE ACTR TGT  AMT DESCRIPTION
+HIT 00010101008Greatsword to the ogre's ribs
+HIT 01010001012Massive club swing
+CAST00040101015Firebolt! (beanbag thrown)
+HIT 00030102010Backstab from the treeline
+CAST01020003008Goblin hex
+HEAL00020001010Cure Light Wounds
+HIT 01010004020OGRE SMASH
+CAST00040101010Lightning bolt from the floor
+HIT 00010101015Shield bash and follow-through
+HIT 00030101012Twin daggers
+REZ 00050004010Rise, sister. Not today.
+CAST01030005030Necrotic bolt
+HEAL00020005020Healing Hands
+CAST00040103025Arcane Missile
+HIT 00010101010The final blow
+HIT 00990102005Some guy from the car park
+DANC00030102001Victory dance
+CAST01020002025Goblin mega-hex
+HIT 00030102020Throat-slitter
+CAST00040103050METEOR SWARM
+HEAL00020101010Heals the dead ogre?
+LOOT0003----150Picks the goblin's pockets
+LOOT0001----250The ogre's treasure chest
+LOOT0005----020Passes the collection plate
+HEAL00050001030Blessing of the Dawn

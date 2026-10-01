@@ -1,0 +1,10 @@
+* ROSTER: ID  NAME(20)            CLASS(10) HP MANA GOLD
+* Players are 0001-0099, monster crew (NPCs) are 0100+
+0001Sir Gareth          WARRIOR   04000000120
+0002Elowen Brightleaf   HEALER    02508000045
+0003Vex the Unseen      ROGUE     02801000300
+0004Morwenna Ashcroft   MAGE      02009000060
+0005Brother Tuck        CLERIC    03206000010
+0101Grimtooth           OGRE-NPC  06000000500
+0102Skarra Goblin Chief GOBLIN-NPC03002000150
+0103Bonewhisper         LICH-NPC  04510000999

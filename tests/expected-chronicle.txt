@@ -1,0 +1,76 @@
+====================================================================================================
+     THE CHRONICLE OF THE SKIRMISH AT GREYMARSH FORD
+     As recorded by the Field Marshal. Lay on!
+====================================================================================================
+
+  [ROUND 001]  Sir Gareth strikes Grimtooth for 8 damage
+               ~ Greatsword to the ogre's ribs ~
+  [ROUND 002]  Grimtooth strikes Sir Gareth for 12 damage
+               ~ Massive club swing ~
+  [ROUND 003]  Morwenna Ashcroft blasts Grimtooth with magic for 15 damage
+               ~ Firebolt! (beanbag thrown) ~
+  [ROUND 004]  Vex the Unseen strikes Skarra Goblin Chief for 10 damage
+               ~ Backstab from the treeline ~
+  [ROUND 005]  Skarra Goblin Chief blasts Vex the Unseen with magic for 8 damage
+               ~ Goblin hex ~
+  [ROUND 006]  Elowen Brightleaf heals Sir Gareth for 10 HP
+               ~ Cure Light Wounds ~
+  [ROUND 007]  Grimtooth strikes Morwenna Ashcroft for 20 damage
+               ~ OGRE SMASH ~
+              >>> Morwenna Ashcroft has FALLEN! Take a knee and start your death count. <<<
+  [ROUND 008]  ** MARSHAL CALL ** CAST by 0004 voided: the fallen cannot act - lie down!
+  [ROUND 009]  Sir Gareth strikes Grimtooth for 15 damage
+               ~ Shield bash and follow-through ~
+  [ROUND 010]  Vex the Unseen strikes Grimtooth for 12 damage
+               ~ Twin daggers ~
+  [ROUND 011]  Brother Tuck RESURRECTS Morwenna Ashcroft with 10 HP
+               ~ Rise, sister. Not today. ~
+  [ROUND 012]  Bonewhisper blasts Brother Tuck with magic for 30 damage
+               ~ Necrotic bolt ~
+  [ROUND 013]  Elowen Brightleaf heals Brother Tuck for 20 HP
+               ~ Healing Hands ~
+  [ROUND 014]  Morwenna Ashcroft blasts Bonewhisper with magic for 25 damage
+               ~ Arcane Missile ~
+  [ROUND 015]  Sir Gareth strikes Grimtooth for 10 damage
+               ~ The final blow ~
+              >>> Grimtooth has FALLEN! Take a knee and start your death count. <<<
+  [ROUND 016]  ** MARSHAL CALL ** HIT  by 0099 voided: no such adventurer is on the field
+  [ROUND 017]  ** MARSHAL CALL ** DANC by 0003 voided: that is not in the rulebook
+  [ROUND 018]  Skarra Goblin Chief's spell FIZZLES - out of mana!
+               ~ Goblin mega-hex ~
+  [ROUND 019]  Vex the Unseen strikes Skarra Goblin Chief for 20 damage
+               ~ Throat-slitter ~
+              >>> Skarra Goblin Chief has FALLEN! Take a knee and start your death count. <<<
+  [ROUND 020]  Morwenna Ashcroft blasts Bonewhisper with magic for 50 damage
+               ~ METEOR SWARM ~
+              >>> Bonewhisper has FALLEN! Take a knee and start your death count. <<<
+  [ROUND 021]  ** MARSHAL CALL ** HEAL by 0002 voided: the fallen need a REZ, not a bandage
+  [ROUND 022]  Vex the Unseen loots 150 gold
+               ~ Picks the goblin's pockets ~
+  [ROUND 023]  Sir Gareth loots 250 gold
+               ~ The ogre's treasure chest ~
+  [ROUND 024]  Brother Tuck loots 20 gold
+               ~ Passes the collection plate ~
+  [ROUND 025]  Brother Tuck heals Sir Gareth for 2 HP
+               ~ Blessing of the Dawn ~
+
+====================================================================================================
+     STATE OF THE FIELD WHEN TIME WAS CALLED
+====================================================================================================
+  ID    ADVENTURER           CLASS      HP       VITALITY     MANA     GOLD  DAMAGE  HEALED  STATUS
+----------------------------------------------------------------------------------------------------
+  0001  Sir Gareth           WARRIOR    40/40    [##########]    0      370      33       0  STANDING
+  0002  Elowen Brightleaf    HEALER     25/25    [##########]   80       45       0      30  STANDING
+  0003  Vex the Unseen       ROGUE      20/28    [#######...]   10      450      42       0  STANDING
+  0004  Morwenna Ashcroft    MAGE       10/20    [#####.....]    0       60      90       0  STANDING
+  0005  Brother Tuck         CLERIC     22/32    [#######...]   40       30       0       2  STANDING
+  0101  Grimtooth            OGRE-NPC   0/60     [..........]    0      500      32       0  FALLEN
+  0102  Skarra Goblin Chief  GOBLIN-NPC 0/30     [..........]   12      150       8       0  FALLEN
+  0103  Bonewhisper          LICH-NPC   0/45     [..........]   70      999      30       0  FALLEN
+----------------------------------------------------------------------------------------------------
+  Events logged ....... 025   (voided by marshal: 004)
+  Still fallen ........ 03 of 08
+  Gold on the field ... 2,604
+  Champion of battle .. Morwenna Ashcroft (90 damage dealt)
+  Saviour of the day .. Elowen Brightleaf (30 HP restored)
+====================================================================================================
